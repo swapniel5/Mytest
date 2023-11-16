@@ -1,2 +1,2 @@
 # Mytest
-demo repo
+Javascript PRacticess
